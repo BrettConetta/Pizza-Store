@@ -18,7 +18,6 @@ public class Main extends Application
 	{
 		try
 		{
-
 			try
 			{
 				Taskbar.getTaskbar().setIconImage(Toolkit.getDefaultToolkit().getImage(Main.class.getClassLoader().getResource("Pizza_Window_Icon.png")));
